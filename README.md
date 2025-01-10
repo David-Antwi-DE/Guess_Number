@@ -1,4 +1,4 @@
-# Guess theNumber program
+# Guess the Number program
 
 
 
